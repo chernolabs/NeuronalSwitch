@@ -28,9 +28,9 @@ folder.
 
 Directory structure
   + `data_raw` : initial raw data (you should put the count matrices downloaded from GEO here) 
-  + `data_aux` : provided pre-calculated intermediate steps to alleviate processing time
+  + `data_aux` : some pre-calculated intermediate files provided to alleviate processing time
   + `data`     : working directory 
-  + `data_figs`: output figures of the paper
+  + `data_figs`: output figures 
 
 You should sequentially apply the following R scripts.
 
