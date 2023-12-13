@@ -19,10 +19,10 @@ Note: the following `R` packages should also be installed in your system:
 
 
 #### Get raw data from GEO
-In order to run this
-computational pipeline you should download `01_DS1x_raw_ssce.Rdata` and
-`02_DS2_raw_ssce.Rdata` from `GEOXXXX` and put them in the `data_raw`
-folder.
+In order to run this computational pipeline you should:
+  + download into the `data_raw` folder the `01_DS1x_raw_ssce.Rdata.gz` and `02_DS2_raw_ssce.Rdata.gz` supplementary files from GEO `GSE249794`. 
+  + unzip both files using gzip
+
 
 #### Pipeline
 
