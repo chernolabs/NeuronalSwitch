@@ -46,4 +46,6 @@ You should sequentially apply the following R scripts.
 | 07_DS2_pseudotemp.R      | Pseudotime estimation for DS2            |
 | 08_density_pseudot.R     | Pseudotime density plots                 |
 | 09_cascades_TFs.R        | Heatmap of TF expression profiles        |
+| 10_scenic.R              | Regulon analysis for DS2                 |
+
 
