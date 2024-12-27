@@ -28,7 +28,7 @@ In order to run this computational pipeline you should:
 
 Directory structure
   + `data_raw` : initial raw data (you should put the count matrices downloaded from GEO here) 
-  + `data_aux` : some pre-calculated intermediate files provided to alleviate processing time
+  + `data_aux` : some pre-calculated intermediate files provided to alleviate processing time (including 04_colDataDS1.Rdata and 05_colDataDS2.Rdata files with clusP and clusP2 cluster labels for the final datasets)
   + `data`     : working directory 
   + `data_figs`: output figures 
 
